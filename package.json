@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "deploy": "serverless deploy",
+    "offline": "serverless offline start"
+  },
+  "devDependencies": {
+    "serverless-offline": "^12.0.4"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1459.0",
+    "canvas": "^2.11.2",
+    "puppeteer": "^21.2.1"
+  }
+}
